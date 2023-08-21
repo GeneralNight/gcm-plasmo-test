@@ -1,0 +1,24 @@
+@import url('./fonts.css');
+@import url('./tailwind.css');
+
+body {
+    width: 100vw;
+    height: 100vh;
+    min-width: 480px;
+    min-height: 612px;
+    max-width: 480px;
+    max-height: 612px;
+    background: #ffffff;
+    margin: auto;
+}
+
+#__plasmo {
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+* {
+    font-size: 16px;
+}
